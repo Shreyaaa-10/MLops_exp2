@@ -1,1 +1,2 @@
-these is a demo file
+These file is used to create for the use of clone command. to see the working of the clone command
+
